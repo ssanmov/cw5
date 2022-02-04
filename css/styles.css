@@ -1,0 +1,38 @@
+body{
+    background-color: #AEFEFF;
+    margin: 0%;
+}
+div{
+    background-color: #4FBDBA;
+    
+}
+h1{
+    margin-top: 0%;
+}
+.top{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 0%;
+    border-style: solid;
+    border-color: crimson;
+    border-width: 10px;
+}
+.middle{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin-left: 120px;
+    border-width: 10px ;
+    border-style: solid;
+    border-color: darkblue;
+}
+.bottom{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin-left: 240px;
+    border-width: 10px ;
+    border-style: solid;
+    border-color: violet;
+}
